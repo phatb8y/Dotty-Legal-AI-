@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dotty-os"
+version = "0.1.0"
+description = "Dotty OS — legal CLI assistant"
+authors = [{ name = "Tami" }]
+requires-python = ">=3.10"
+dependencies = ["click", "rich", "pydantic"]
+
+[project.scripts]
+dotty = "dotty.cli:cli"

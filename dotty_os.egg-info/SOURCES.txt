@@ -1,0 +1,13 @@
+pyproject.toml
+dotty/__init__.py
+dotty/cli.py
+dotty/modules/__init__.py
+dotty/modules/ada.py
+dotty/modules/citation.py
+dotty/utils/__init__.py
+dotty_os.egg-info/PKG-INFO
+dotty_os.egg-info/SOURCES.txt
+dotty_os.egg-info/dependency_links.txt
+dotty_os.egg-info/entry_points.txt
+dotty_os.egg-info/requires.txt
+dotty_os.egg-info/top_level.txt

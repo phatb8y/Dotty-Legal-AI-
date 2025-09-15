@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: dotty-os
+Version: 0.1.0
+Summary: Dotty OS — legal CLI assistant
+Author: Tami
+Requires-Python: >=3.10
+Requires-Dist: click
+Requires-Dist: rich
+Requires-Dist: pydantic

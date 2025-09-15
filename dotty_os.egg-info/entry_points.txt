@@ -1,0 +1,2 @@
+[console_scripts]
+dotty = dotty.cli:cli
